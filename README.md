@@ -1,0 +1,1 @@
+Use Python scrapy to find out how many trains departure from Baden Bahnhof on a given date.
